@@ -1,0 +1,52 @@
+FlightID, AircraftModel, Pilot, Date, Type, Destination, Airline, DepartureTime, ArrivalTime, PassengerCapacity
+F001, Airbus A320, John Doe, 2024-01-06, Departure, London, Turkish Airlines, 08:00, 12:00, 180
+F002, Boeing 737, Jane Smith, 2024-01-06, Arrival, Paris, British Airways, 09:30, 13:30, 160
+F003, Airbus A320, James Hetfield, 2024-01-25, Departure, Adana, Turkish Airlines, 10:00, 14:00, 250
+F004, Boeing 737, Lars Ulrich, 2024-01-25, Arrival, Ankara, British Airways, 11:30, 15:30, 200
+F005, Airbus A320, Kirk Hammett, 2024-02-03, Departure, İstanbul, Turkish Airlines, 12:00, 16:00, 180
+F006, Boeing 737, Robert Trujillo, 2024-02-03, Arrival, İzmir, British Airways, 13:30, 17:30, 160
+F007, Airbus A320, Cliff Burton, 2024-02-12, Departure, Antalya, Turkish Airlines, 14:00, 18:00, 250
+F008, Boeing 737, Jason Newsted, 2024-02-12, Arrival, Bursa, British Airways, 15:30, 19:30, 200
+F009, Airbus A320, Dave Mustaine, 2024-02-21, Departure, İzmir, Turkish Airlines, 16:00, 20:00, 180
+F010, Boeing 737, Marty Friedman, 2024-02-21, Arrival, İstanbul, British Airways, 17:30, 21:30, 160
+F011, Airbus A320, David Ellefson, 2024-03-01, Departure, Bursa, Turkish Airlines, 18:00, 22:00, 250
+F012, Boeing 737, Joey Jordison, 2024-03-01, Arrival, Antalya, British Airways, 19:30, 23:30, 200
+F013, Airbus A320, Serkan Yilmaz, 2024-03-10, Departure, İstanbul, Turkish Airlines, 20:00, 00:00, 180
+F014, Boeing 737, Dilara Demir, 2024-03-10, Arrival, İzmir, British Airways, 21:30, 01:30, 160
+F015, Airbus A320, Emre Can, 2024-03-19, Departure, Ankara, Turkish Airlines, 22:00, 02:00, 250
+F016, Boeing 737, Ebru Aydin, 2024-03-19, Arrival, Adana, British Airways, 23:30, 03:30, 200
+F017, Airbus A320, Burak Kaya, 2024-04-02, Departure, İstanbul, Turkish Airlines, 08:00, 12:00, 180
+F018, Boeing 737, Deniz Arslan, 2024-04-02, Arrival, İzmir, British Airways, 09:30, 13:30, 160
+F019, Airbus A320, Aylin Yildirim, 2024-04-15, Departure, Antalya, Turkish Airlines, 10:00, 14:00, 250
+F020, Boeing 737, Emre Demir, 2024-04-15, Arrival, Bursa, British Airways, 11:30, 15:30, 200
+F021, Airbus A320, Elif Karahan, 2024-04-25, Departure, İstanbul, Turkish Airlines, 12:00, 16:00, 180
+F022, Boeing 737, Burak Aydin, 2024-04-25, Arrival, İzmir, British Airways, 13:30, 17:30, 160
+F023, Airbus A320, Deniz Kaya, 2024-05-05, Departure, İzmir, Turkish Airlines, 14:00, 18:00, 250
+F024, Boeing 737, Cemal Eren, 2024-05-05, Arrival, İstanbul, British Airways, 15:30, 19:30, 200
+F025, Airbus A320, Serap Sahin, 2024-05-15, Departure, Antalya, Turkish Airlines, 16:00, 20:00, 180
+F026, Boeing 737, Ayse Yilmaz, 2024-05-15, Arrival, Bursa, British Airways, 17:30, 21:30, 160
+F027, Airbus A320, Tuncay Altun, 2024-05-25, Departure, İstanbul, Turkish Airlines, 18:00, 22:00, 250
+F028, Boeing 737, Mehmet Yildirim, 2024-05-25, Arrival, İzmir, British Airways, 19:30, 23:30, 200
+F029, Airbus A320, Esra Arslan, 2024-06-05, Departure, İstanbul, Turkish Airlines, 20:00, 00:00, 180
+F030, Boeing 737, Gokhan Cetin, 2024-06-05, Arrival, Antalya, British Airways, 21:30, 01:30, 160
+F031, Airbus A320, Ahmet Demir, 2024-06-15, Departure, İstanbul, Pegasus Airlines, 08:30, 12:30, 180
+F032, Boeing 737, Aylin Yıldırım, 2024-06-15, Arrival, İzmir, Lufthansa, 10:00, 14:00, 160
+F033, Airbus A320, Can Kaya, 2024-06-25, Departure, Antalya, Pegasus Airlines, 11:30, 15:30, 250
+F034, Boeing 737, Cemal Aydin, 2024-06-25, Arrival, Bursa, Air France, 13:00, 17:00, 200
+F035, Airbus A320, Dilara Eren, 2024-07-05, Departure, İstanbul, Pegasus Airlines, 14:30, 18:30, 180
+F036, Boeing 737, Deniz Yilmaz, 2024-07-05, Arrival, İzmir, Lufthansa, 16:00, 20:00, 160
+F037, Airbus A320, Ebru Karahan, 2024-07-15, Departure, Antalya, Pegasus Airlines, 17:30, 21:30, 250
+F038, Boeing 737, Emre Arslan, 2024-07-15, Arrival, Bursa, Air France, 19:00, 23:00, 200
+F039, Airbus A320, Fahri Yildirim, 2024-07-25, Departure, İstanbul, Pegasus Airlines, 20:30, 00:30, 180
+F040, Boeing 737, Gokce Aydin, 2024-07-25, Arrival, İzmir, Lufthansa, 22:00, 02:00, 160
+F041, Airbus A320, Hasan Kaya, 2024-08-05, Departure, Antalya, Pegasus Airlines, 08:30, 12:30, 250
+F042, Boeing 737, Isil Karahan, 2024-08-05, Arrival, Bursa, Air France, 10:00, 14:00, 200
+F043, Airbus A320, Jale Yilmaz, 2024-08-15, Departure, İstanbul, Pegasus Airlines, 11:30, 15:30, 180
+F044, Boeing 737, Kemal Aydin, 2024-08-15, Arrival, İzmir, Lufthansa, 13:00, 17:00, 160
+F045, Airbus A320, Levent Yildirim, 2024-08-25, Departure, Antalya, Pegasus Airlines, 14:30, 18:30, 250
+F046, Boeing 737, Melis Karahan, 2024-08-25, Arrival, Bursa, Air France, 16:00, 20:00, 200
+F047, Airbus A320, Nihan Aydin, 2024-09-05, Departure, İstanbul, Pegasus Airlines, 17:30, 21:30, 180
+F048, Boeing 737, Onur Kaya, 2024-09-05, Arrival, İzmir, Lufthansa, 19:00, 23:00, 160
+F049, Airbus A320, Pinar Yilmaz, 2024-09-15, Departure, Antalya, Pegasus Airlines, 20:30, 00:30, 250
+F050, Airbus, James, 2024-05-21, Departure, Adana, TurkishAirlines, Hetfield, 22:05, 225
+F052, Airbus, Cemal, 2024-01-06, Departure, Rize, Turkish, 20:00, 21:00, 220
